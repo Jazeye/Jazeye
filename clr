@@ -1,0 +1,31 @@
+linear-gradient(45deg, #5740a1 0, #995ad5 100%);
+/* Dark Theme */
+
+
+/* CSS HEX */
+--gigas: #5740a1;
+--medium-purple: #995ad5;
+--concrete: #f2f2f2;
+--santas-gray: #9f9caa;
+--french-gray: #bfbfc0;
+--lavender: #c584e3;
+--malibu: #6ca4fb;
+--hot-pink: #ff619c;
+--violent-violet: #270a66;
+
+background: linear-gradient(45deg, #6ca4fb 0,  #5740a1 100%);
+
+background: linear-gradient(45deg, #995ad5 0,  #5740a1 100%);
+
+
+
+/* CSS HEX */
+--hollywood-cerise: #f10391;
+--shocking-pink: #e81fd9;
+--royal-blue: #4467e3;
+--royal-blue: #3778e8;
+--fuchsia-blue: #6947c3;
+--royal-blue: #4a5fe1;
+--shocking-pink: #ec13b8;
+--shocking-pink: #ec1ddc;
+--purple-heart: #7934bc;
