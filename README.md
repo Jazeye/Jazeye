@@ -9,7 +9,6 @@
 * Linux 🐧
 * web security 🌐
 * reverse engineering ⚒️
-* malware analysis 🐞
 * coding 👨‍💻
 * CTF 🚩
 ```
