@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I am jaseel
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14FF16&width=435&lines=%24+echo+%22A+Cyber+Security+Enthusiast%22;%24+echo+%22BCA+Student%22;%24+echo+%22Self+Learner%22;%23+echo+%22CTF+Player+%F0%9F%9A%A9%22)](https://github.com/shadowelite-sec)
 
- **Jazeye/Jazeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <img src="https://github.com/shadowelite-sec/shadowelite-sec/blob/main/file_53643726.png" align="right" width="30%"/>
 
-Here are some ideas to get you started:
+```diff
+@@ Interested @@
+* Linux 🐧
+* web security 🌐
+* reverse engineering ⚒️
+* malware analysis 🐞
+* coding 👨‍💻
+* CTF 🚩
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Shadowelite.png" alt="TryHackMe"
