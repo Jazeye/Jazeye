@@ -13,4 +13,4 @@
 * CTF 🚩
 ```
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Minnal.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jazeye.png" alt="TryHackMe">
