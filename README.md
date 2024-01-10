@@ -4,7 +4,7 @@
 
    <img src="https://github.com/Jazeye/Jazeye/blob/main/h4cker.png" align="right" width="30%"/>
 
-```
+```diff
 @@ Interested @@
 * Linux 🐧
 * web security 🌐
