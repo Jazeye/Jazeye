@@ -8,7 +8,7 @@
 @@ Interested @@
 * Linux 🐧
 * web security 🌐
-* reverse engineering ⚒️
+* Penetration testing ⚒️
 * coding 👨‍💻
 * CTF 🚩
 ```
